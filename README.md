@@ -6,7 +6,7 @@ Projeto inspirado no front-end da listagem de titulos da netflix, feito com o ob
 
 API comsumida: [TMDb](https://www.themoviedb.org/)
 
-Quer dar uma olhada? só clicar [aqui](https://heuristic-pasteur-ed056f.netlify.app/) 😉
+Quer dar uma olhada? só clicar [aqui](https://netflix-clone-jackwh0.netlify.app/) 😉
 
 ## 💻 Preview
 <img src="https://user-images.githubusercontent.com/48254551/98876965-2b7bee00-245e-11eb-9a88-c7663bcef630.png"/>
