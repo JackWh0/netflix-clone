@@ -24,8 +24,8 @@ export default function FeaturedMovie({ item }) {
                     </div>
                     <div className="featured--description">{item.overview.length < 230 ? item.overview : item.overview.substring(0, 230) + '...'}</div>
                     <div className="featured--buttons">
-                        <a className="featured--watchButton" href={`/watch/${item.id}`}>► Assistir</a>
-                        <a className="featured--myListButton" href={`/list/add/${item.id}`}>+ Minha Lista</a>
+                        <a className="featured--watchButton" href="">► Assistir</a>
+                        <a className="featured--myListButton" href="">+ Minha Lista</a>
                     </div>
                     <div className="featured--genres"><strong>Gêneros:</strong> {genres.join(', ')}</div>
                 </div>
